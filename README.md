@@ -1,5 +1,5 @@
 # 💫 About Me:
-Étudiant en L3 MIAGE à l'IM²AG à l'Université de Grenoble Alpes.<br>Passionné par l'informatique. J'aime le travail en équipe et le rythme de travail soutenu. <br>Ma grande adaptabilité me permet de prendre mes remarques rapidement et d’être opérationnel. <br>-Développement Web <br>-Programmation<br>
+Passionné par l'informatique. J'aime le travail en équipe et le rythme de travail soutenu. <br>Ma grande adaptabilité me permet de prendre mes remarques rapidement et d’être opérationnel. <br>-Développement Web <br>-Programmation<br>
 
 
 ## 🌐 Socials:
